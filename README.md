@@ -2,6 +2,8 @@
 I use it for learning html,css,javascript and save it
 # HTML/CSS 个人简介卡片 🎉
 这是我自学前端的第一个实战小项目，从0到1完成了一个完整的个人介绍网页。
+链接
+##https://gdfrwyb147.github.io/html-css-js-self-introduce-card/index.html
 
 ## 项目介绍
 - **技术栈**：纯 HTML + CSS
